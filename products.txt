@@ -1,0 +1,13 @@
+AVAILABLE PRODUCTS
+
+Meat
+- Chicken
+- Beef
+Fruit
+- Apple
+- Pear
+- Banana
+Dairy
+- milk
+- yoghurt
+- cheese
